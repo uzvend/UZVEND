@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawerLayout" type="id" />
+    <item name="navigationView" type="id" />
+    <item name="navigationBar" type="id" />
+    <item name="ll_First" type="id" />
+    <item name="ll_Second" type="id" />
+    <item name="ll_Third" type="id" />
+    <item name="ll_Fourth" type="id" />
+    <item name="ll_Fifth" type="id" />
+    <item name="iv_logout" type="id" />
+    <item name="tv_logout" type="id" />
+    <item name="ll_Seventh" type="id" />
+    <item name="ll_Sixth" type="id" />
+    <item name="recyclerViewCategory" type="id" />
+    <item name="recyclerViewBanner" type="id" />
+    <item name="nestedScrollView" type="id" />
+</resources>

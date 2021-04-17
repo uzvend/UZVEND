@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "336799296581",
+    "firebase_url": "https://uz-vend-2eaee-default-rtdb.firebaseio.com",
+    "project_id": "uz-vend-2eaee",
+    "storage_bucket": "uz-vend-2eaee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336799296581:android:2917d1ea420192df3ac72c",
+        "android_client_info": {
+          "package_name": "com.example.uzvend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336799296581-i2kc3kh425vsrqqsfb2onad0fs53lb9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6jTKY3lgRLN_a8x6ngYYBoNSd_9uRW10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336799296581-i2kc3kh425vsrqqsfb2onad0fs53lb9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336799296581:android:8dc5b4668dfc35f13ac72c",
+        "android_client_info": {
+          "package_name": "uzvend.shopping.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336799296581-0omo8mfuitp3bkk91kolp5fg59l9cb4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uzvend.shopping.app",
+            "certificate_hash": "e8cd8998131fc1136cd73d65176c7bccd1ad49aa"
+          }
+        },
+        {
+          "client_id": "336799296581-i2kc3kh425vsrqqsfb2onad0fs53lb9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6jTKY3lgRLN_a8x6ngYYBoNSd_9uRW10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336799296581-i2kc3kh425vsrqqsfb2onad0fs53lb9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
